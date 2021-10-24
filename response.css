@@ -1,0 +1,348 @@
+
+
+@media (max-width:950px){
+    .listed li a{
+    font-size: 10px;
+}
+    .listed li b {
+        font-size: 10px;
+    }
+    
+    
+    .middle-2 {
+        padding: 5%;
+        width: 100%;
+    }
+    
+    .background-s {
+        margin-left: 20%;
+    }
+    
+    .leftside .nibondon p {
+        font-size: 14px;
+    }
+    
+    .leftside p {
+        font-size: 12px;
+    }
+    
+    
+    .fa-user-check{
+        font-size: 40px;
+    }
+    
+    
+.debaided  {
+        margin-right: 20%;
+        padding-top: 6.5%;
+    }
+    
+    .debaided a {
+        font-size: 16px;
+    }
+    .debaided a  i {
+        font-size: 30px;
+    }
+    
+    
+    .hotline1 , .hotline11 {
+        width: 15%;
+        margin: 0px;
+        padding: 0px;
+        display: inline-block;
+    }
+    
+    .hotline1 p, .hotline11 p {
+        font-size: 10px;
+        margin: 1%;
+        width: 100%;
+    }
+    
+}
+
+
+@media (max-width:600px) {
+    .navber2 {
+        display: none;
+    }
+    
+    
+    .navbar {
+        height: 100px;
+        width: 100%;
+        margin: 0px;
+        padding: 0;
+        top: 0;
+        left: 0;
+        right: 0;
+    }
+    
+    
+    .navber1 img {
+        
+    }
+    
+    .leftside {
+        width: 100%;
+        display: block;
+        overflow: hidden;
+    }
+    .background-s {
+        width: 80%;
+        margin: 10%;
+    }
+    
+    .rightside {
+        width: 100%;
+        display: block;
+        margin: 10%;
+    }
+    
+    
+    
+    .middle-2 {
+        height: 950px;
+    }
+    
+    
+    .hotline1, .hotline11 {
+        width: 100%;
+        display: block;
+        border: none;
+    }
+    
+    .leftside .nibondon p {
+        font-size: 20px;
+    }
+    
+    .leftside p {
+        font-size: 14px;
+    }
+    
+    
+    .fa-user-check{
+        font-size: 80px;
+    }
+    
+    
+    .prokriya h1 {
+        font-size: 100%;
+    }
+    
+    
+    .notification, .notification1 {
+        width: 100%;
+        display: block;
+    }
+    
+    .donwloadapp h3{
+            font-size: 100%; 
+        display: block;
+        width: 100%;
+        }
+    
+    .leftfotter, .rightfotter, .leftfotter1, .rightfotter1 {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    
+    
+    .leftfotter1 a {
+        text-align: center;
+    }
+    
+    .bars {
+        display: block;
+    }
+    
+    
+    .bars input {
+        display: none;
+    }
+    
+    
+    .fa-times {
+        display: none;
+    }
+    
+    .bars label i {
+        margin-right: 5%;
+        float: right;
+        margin-top: -3%;
+        padding: 5px;
+    }
+    
+    
+    .bars label i:hover {
+        color: aqua;
+        border: 3px solid #fafafa;
+        padding: 5px;
+        transition: 1s;
+    }
+    
+    
+    
+    #checke:checked~.navber2 {
+        display: block;
+        position: relative;
+        background-image: url(image/liko.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        image-resolution:from-image;
+        border-bottom: 12px solid #fff;
+        transition: 5s;
+        
+    }
+    
+    
+    
+    #checke:checked~.navber .bar {
+        width: 100%;
+        float: left;
+        text-align: left;
+        padding: 10px;
+        transition: 3s;
+    }
+}
+}
+
+@media (max-width:400px) {
+    .navbar  {
+        height: 100px;
+        overflow: hidden;
+        display: inline-table;
+    }
+    
+    .navber1 img {
+        width: 100%;
+    }
+    
+    .leftside {
+        width: 100%;
+        display: block;
+        overflow: hidden;
+    }
+    
+    
+    .nibondon p b  {
+        font-size: 15px;
+    }
+    
+    
+    .nibondon i {
+        font-size: 40px;
+    }
+    
+    
+    
+    .background-s {
+        width: 95%;
+        margin: 5%;
+    }
+    
+    .rightside {
+        width: 100%;
+        display: block;
+        margin: 10%;
+    }
+    
+    
+    .rightside a {
+        font-size: 14px;
+    }
+    
+    
+    .rightside a i {
+        font-size: 20px;
+    }
+    
+    
+    
+    .middle-2 {
+        height: 700px;
+    }
+    
+    
+    .hotline1, .hotline11 {
+        width: 100%;
+        display: block;
+        border: none;
+    }
+    
+    .leftside .nibondon p {
+        font-size: 20px;
+    }
+    
+    .leftside p {
+        font-size: 14px;
+    }
+    
+    
+    .fa-user-check{
+        font-size: 80px;
+    }
+    
+    
+    .prokriya h1 {
+        font-size: 80%;
+    }
+    
+    
+    .notification, .notification1 {
+        width: 100%;
+        display: block;
+    }
+    
+    .donwloadapp h3{
+            font-size: 80%; 
+        display: block;
+        width: 100%;
+        }
+    
+    .leftfotter, .rightfotter, .leftfotter1, .rightfotter1 {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    
+    
+    .leftfotter1 a {
+        text-align: center;
+    }
+    
+    .fotter {
+        display: block;
+        background-color: chocolate;
+        height: 600px;}
+    
+    
+    .rightfotter1 p {
+        font-size: 10px;
+        margin: 10%;
+    }
+    
+    
+    .notification1 b {
+        font-size: 13px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
